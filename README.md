@@ -5,6 +5,7 @@ This Dataset comprised of information for 750+ employees in a MNC company. The g
 3. Total Salary by Each Gender
 4. Total Salary by Team -  Gender Wise
 5. Percentage of Employees in Senior Management
+
 Various Python Data Analysis Packages were used:
 1. Pandas
 2. Matplotlib
